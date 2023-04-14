@@ -11,9 +11,14 @@
     "infinite scroll",
     "intersection observer"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhins333/react-infinite-scroll-with-intersection-observer-component.git"
+  },
   "peerDependencies": {
     "react": ">=16.0.0"
   },
+  "homepage": "https://github.com/dhins333/react-infinite-scroll-with-intersection-observer-component#readme",
   "devDependencies": {
     "@babel/core": "^7.21.4",
     "@babel/preset-env": "^7.21.4",
